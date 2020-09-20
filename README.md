@@ -1,1 +1,1 @@
-# react-app-0
+# Tic tac toe tutorial
